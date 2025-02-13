@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "frontend-app",
+  "webDir": "dist/spa",
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}

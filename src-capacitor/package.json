@@ -1,0 +1,14 @@
+{
+  "name": "frontend-app",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "author": "JCT Agency",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/ios": "^6.2.0"
+  }
+}

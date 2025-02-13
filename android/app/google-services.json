@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861184977471",
+    "project_id": "app-aj-l-aldea",
+    "storage_bucket": "app-aj-l-aldea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861184977471:android:d313a064260c882874268a",
+        "android_client_info": {
+          "package_name": "com.aldeaapp.id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExRVVKszjRF0jftPTw9sstx-bVo8q_lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
